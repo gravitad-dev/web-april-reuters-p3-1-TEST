@@ -2,10 +2,10 @@
 function App() {
   return (
     <div className='frameContainer'>
-      <div>aaa</div>
+      
       <iframe
         class="aplication"
-        src="*.news-proxy-eta.vercel.app"
+        src="https://news-proxy-eta.vercel.app"
         width="100"
         height="100"
         frameborder="0"
